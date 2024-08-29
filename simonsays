@@ -1,0 +1,7 @@
+echo "# Simon-Says-Game" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Aasif1502/Simon-Says-Game.git
+git push -u origin main
